@@ -1,0 +1,8 @@
+# Nmap 7.94SVN scan initiated Thu Feb 26 10:58:34 2026 as: nmap -sn -oN nmap_192.168.10_scan.txt 192.168.10.0/24
+Nmap scan report for 192.168.10.1
+Host is up (0.0016s latency).
+Nmap scan report for 192.168.10.2
+Host is up (0.0051s latency).
+Nmap scan report for host.docker.internal (192.168.10.4)
+Host is up (0.0014s latency).
+# Nmap done at Thu Feb 26 10:58:37 2026 -- 256 IP addresses (3 hosts up) scanned in 2.98 seconds

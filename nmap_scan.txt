@@ -1,0 +1,6 @@
+# Nmap 7.94SVN scan initiated Thu Feb 26 10:56:59 2026 as: nmap -sn -oN nmap_scan.txt 172.25.112.0/20
+Nmap scan report for GRAVITYDRIVE.mshome.net (172.25.112.1)
+Host is up (0.0015s latency).
+Nmap scan report for 172.25.118.57
+Host is up (0.00061s latency).
+# Nmap done at Thu Feb 26 10:57:28 2026 -- 4096 IP addresses (2 hosts up) scanned in 28.89 seconds
